@@ -1,10 +1,3 @@
-for (let i = 0; i < 5; i++) {
-    console.log(`Iteration ${i}`);
-}
-
 function greet(name) {
-    console.log(`Hello, ${name}!`);
+    console.log(`Olá, ${name}!`);
 }
-
-greet("Alice");
-greet("Bob");
