@@ -1,5 +1,3 @@
 console.log("Hello, World!");
 
-for (let i = 0; i < 5; i++) {
-    console.log(`Iteration ${i}`);
-}
+console.log("Bem-vindos a terceira aula de Engenharia de Software II!");
