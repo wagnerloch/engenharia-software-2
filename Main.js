@@ -6,6 +6,8 @@ function greet(name) {
     console.log(`Oi, tudo bem ${name}?`);
 }
 
+greet("Wagner");
+
 function add(a, b) {
     return a + b;
 }
