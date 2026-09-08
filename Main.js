@@ -35,5 +35,3 @@ function fibonacci(n) {
 const n = 10;
 const fibonacciSequence = fibonacci(n);
 console.log(`A sequência de Fibonacci até ${n} é: ${fibonacciSequence.join(", ")}`);
-
-console.log("Fim do programa.");
